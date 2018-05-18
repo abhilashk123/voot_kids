@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="tool_bar_tittle">Bookshelf</string>
+    <string name="open_preview_content">Open Preview Content</string>
+    <string name="open_downloaded_content">Open Downloaded Content</string>
+    <string name="preview_content">Preview / Downloaded</string>
+    <string name="content_path">Content Path</string>
+    <string name="book_complete">Book Complete Event</string>
+    <string name="show_control_panel">Show Control Panel</string>
+    <string name="hide_control_panel">Hide Control Panel</string>
+</resources>
